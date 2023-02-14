@@ -49,31 +49,31 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 
-global.sig = 'https://instagram.com/_ctzhid' // ig
-global.sgh = 'https://github.com/WH-MODS-BOT/' // github
-global.sgc = 'https://chat.whatsapp.com/FQkbyTEfvES3D363uxMEFOI' // group whatsapp
+global.sig = 'https://instagram.com/andiigndr29' // ig
+global.sgh = 'https://github.com/wabotdev/' // github
+global.sgc = 'https://chat.whatsapp.com/HopX4O2yI4f6BLL0YfSwap' // group whatsapp
 global.sdc = 'https://www.discord.com'//discord
-global.snh = 'https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow' // my youtube channel
+global.snh = 'https://www.youtube.com/channel/gandorchannel29' // my youtube channel
 global.sfb = 'https://www.facebook.com/' // facebook
 global.syt = 'https://www.youtube.com/' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
 
 /*============== PAYMENT ==============*/
-global.pdana = '08XXXXXXXXXX' //dana
-global.povo = '08XXXXXXXXXX' //ovo
-global.pgopay = '08XXXXXXXXXX' //gopay
-global.plinkaja = '08XXXXXXXXXX' //link aja
-global.ppulsa = '08XXXXXXXXXX' //telkomsel
-global.ppulsa2 = '08XXXXXXXXXX' // kalau ada kartu lain isi aja
-global.psaweria = 'https://saweria.com/mrw4h1d'
+global.pdana = '088220154946' //dana
+global.povo = '088220154946' //ovo
+global.pgopay = '088220154946' //gopay
+global.plinkaja = '088220154946' //link aja
+global.ppulsa = '088220154946' //smartfen
+global.ppulsa2 = '088220154946' // smartfen
+global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62XXXXXXXXXXX'
-global.nomorown = '6282127487538'
-global.namebot = 'WH-MODS-BOT-V1'
-global.nameown = 'WH MODS DEV'
+global.nomorbot = '6288902848568'
+global.nomorown = '6288220154946'
+global.namebot = '𝓦𝓸𝓷𝓰 𝓤𝓻𝓲𝓹'
+global.nameown = '@𝘢𝘯𝘥𝘪𝘪𝘨𝘯𝘥𝘳29'
 
 /*============== Github Thanks To ==============*/
-global.namagithub = 'WH-MODS-BOT' // nama github lu
+global.namagithub = 'wabotdev' // nama github lu
 global.linkgithub = sgh // EDIT LINK GITHUB DI global.sgh
 
 // klau kgk ada github kasih tanda '-' aja biar kgk error
@@ -86,7 +86,7 @@ global.openaikey = "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"
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282127487538', 'WH MODS DEV', true],
+  ['6288220154946', '@𝘢𝘯𝘥𝘪𝘪𝘨𝘯𝘥𝘳29', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
@@ -158,14 +158,14 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 WH-MODS-BOT-V1 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘WH-MODS-BOT-V1 ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = "⫹⫺ WH-MODS-BOT-V1"
+global.wm = '                「 𝓦𝓸𝓷𝓰 𝓤𝓻𝓲𝓹 」' //Main Watermark
+global.wm2 = '𝓦𝓸𝓷𝓰 𝓤𝓻𝓲𝓹'
+global.wm3 = "⫹⫺ 𝓦𝓸𝓷𝓰 𝓤𝓻𝓲𝓹"
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ TIME: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By WH-MODS-DEV`
+global.titlebot = `⫹⫺ 𝙒𝙝𝙖𝙩𝙨𝙖𝙥𝙥 𝘽𝙤𝙩 | @𝘢𝘯𝘥𝘪𝘪𝘨𝘯𝘥𝘳29`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = "WH MODS DEV 乂 WH MODS BOT"
+global.author = "𝓦𝓸𝓷𝓰 𝓤𝓻𝓲𝓹 乂 @𝘢𝘯𝘥𝘪𝘪𝘨𝘯𝘥𝘳29"
 
 /*Fake*/
 global.fsizedoc = SizeDoc()
@@ -217,18 +217,18 @@ global.drtf = 'text/rtf'
 
 /*=========== HIASAN ===========*/
 // DEFAULT MENU
-global.dmenut = 'ଓ═┅═━–〈' //top
-global.dmenub = '┊↬' //body
-global.dmenub2 = '┊' //body for info cmd on Default menu
-global.dmenuf = '┗––––––––––✦' //footer
+global.dmenut = '⫹⫺' //top
+global.dmenub = '⫹⫺' //body
+global.dmenub2 = '⫹⫺' //body for info cmd on Default menu
+global.dmenuf = '⫹⫺' //footer
 
 // COMMAND MENU
-global.dashmenu = pickRandom(["┅═┅═❏ *DASHBOARD* ❏═┅═┅", "☰ *D A S B O A R D* ☰"])
-global.cmenut = '❏––––––『' //top
-global.cmenuh = '』––––––' //header
-global.cmenub = '┊✦ ' //body
-global.cmenuf = '┗━═┅═━––––––๑\n' //footer
-global.cmenua = '\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘ ⌕\n     ' //after
+global.dashmenu = pickRandom(["❏ 🅳🅰🆂🅷🅱🅾🅰🆁🅳 ❏", "☰ *D A S B O A R D* ☰"])
+global.cmenut = '❏' //top
+global.cmenuh = '❏' //header
+global.cmenub = '❏' //body
+global.cmenuf = '❏' //footer
+global.cmenua = '❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘' //after
 global.pmenus = pickRandom(["◈", "➭", "ଓ", "⟆•", "⳻⳻", "•", "↬", "◈▻", "⭑", "ᯬ", "◉", "᭻", "»", "〆", "々", "⛥", "✗", "⚜", "⚚", "♪"]) //pembatas menu selector
 
 global.htki = '––––––『' // Hiasan Titile (KIRI)
@@ -239,8 +239,8 @@ global.htjava = pickRandom(["⛶", "❏", "⫹⫺", "☰", "⎔", "✦", "⭔", 
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'WH-MODS-BOT-V1'
-global.stickauth = `By ©WH-MODS-DEV`
+global.stickpack = '𝙒𝙝𝙖𝙩𝙨𝙖𝙥𝙥 𝘽𝙤𝙩'
+global.stickauth = `By @𝘢𝘯𝘥𝘪𝘪𝘨𝘯𝘥𝘳29`
 
 global.multiplier = 69 // The higher, The harder levelup
 
