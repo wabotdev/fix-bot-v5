@@ -67,7 +67,7 @@ global.ppulsa2 = '088220154946' // smartfen
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6288902848568'
+global.nomorbot = '6285741749802'
 global.nomorown = '6288220154946'
 global.namebot = '𝓦𝓸𝓷𝓰 𝓤𝓻𝓲𝓹'
 global.nameown = '@𝘢𝘯𝘥𝘪𝘪𝘨𝘯𝘥𝘳29'
